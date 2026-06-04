@@ -11,11 +11,15 @@ MCU Datalogger — ATmega328P-based data logging PCB with DS1307 real-time clock
   - FABRICATION-JLCPCB
 
 ## FILES INCLUDED
-  ## GERBER FILES
-  ## LICENSE
-  ## PDF FILES
-  ## SCREENSHOTS
-  ## SOURCE FILES
+  -GERBER FILES
+  
+  -LICENSE
+  
+  -PDF FILES
+  
+  -SCREENSHOTS
+  
+  -SOURCE FILES
   
 ## PCB PREVIEW
 <img width="943" height="610" alt="Screenshot 2026-06-04 173231" src="https://github.com/user-attachments/assets/4b396605-57d0-4036-91cc-dffd080dfd5a" />
